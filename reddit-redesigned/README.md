@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://www.redditinc.com/assets/images/blog/_1500x725_crop_center-center_none/reddit_header_2023-11-28-222257_hthh.png" alt="reddit" width="320"/>
+</div>
+
 # Reddit Redesigned UserStyles CSS
 
 Fork of Full Length Reddit Post. Overhauls some UI elements of Reddit to be more modern and lively looking, along with some quality of life updates.
@@ -5,11 +9,11 @@ Fork of Full Length Reddit Post. Overhauls some UI elements of Reddit to be more
 This is a userStyles CSS sheet for Reddit.com that allows you to customize the appearance of the site.
 
 ## Screenshots
-<p float="left">
-    <img src="reddit-redesigned/assets/ss1.png" alt="Screenshot" width="185"/>
-    <img src="reddit-redesigned/assets/ss2.png" alt="Screenshot" width="185"/>
-    <img src="reddit-redesigned/assets/ss3.png" alt="Screenshot" width="185"/>
-</p>
+<div style="display: flex; gap: 30px;" align="center">
+    <img src="assets/ss1.png" alt="Screenshot" width="485"/>
+    <img src="assets/ss2.png" alt="Screenshot" width="485"/>
+    <img src="assets/ss3.png" alt="Screenshot" width="485"/>
+</div>
 
 ## Installation
 
