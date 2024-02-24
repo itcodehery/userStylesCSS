@@ -1,8 +1,15 @@
 # Reddit Redesigned UserStyles CSS
 
-ork of Full Length Reddit Post. Overhauls some UI elements of Reddit to be more modern and lively looking, along with some quality of life updates.
+Fork of Full Length Reddit Post. Overhauls some UI elements of Reddit to be more modern and lively looking, along with some quality of life updates.
 
 This is a userStyles CSS sheet for Reddit.com that allows you to customize the appearance of the site.
+
+## Screenshots
+<p float="left">
+    <img src="/Screenshots/ss1.png" alt="Screenshot" width="185"/>
+    <img src="/Screenshots/ss2.png" alt="Screenshot" width="185"/>
+    <img src="/Screenshots/ss3.png" alt="Screenshot" width="185"/>
+</p>
 
 ## Installation
 
