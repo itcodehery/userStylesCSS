@@ -6,9 +6,9 @@ This is a userStyles CSS sheet for Reddit.com that allows you to customize the a
 
 ## Screenshots
 <p float="left">
-    <img src="/Screenshots/ss1.png" alt="Screenshot" width="185"/>
-    <img src="/Screenshots/ss2.png" alt="Screenshot" width="185"/>
-    <img src="/Screenshots/ss3.png" alt="Screenshot" width="185"/>
+    <img src="reddit-redesigned/assets/ss1.png" alt="Screenshot" width="185"/>
+    <img src="reddit-redesigned/assets/ss2.png" alt="Screenshot" width="185"/>
+    <img src="reddit-redesigned/assets/ss3.png" alt="Screenshot" width="185"/>
 </p>
 
 ## Installation
